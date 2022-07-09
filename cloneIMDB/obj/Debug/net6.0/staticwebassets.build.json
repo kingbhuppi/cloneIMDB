@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EQYnU3u989G4MeFM1CPtxKSrxRMSYNMN6J/tAE/5uUQ=",
+  "Source": "cloneIMDB",
+  "BasePath": "_content/cloneIMDB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
